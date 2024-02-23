@@ -1,0 +1,3 @@
+---- ADC_resolution Matches (2 in 1 files) ----
+{anonADC_InitTypeDef} in stm32f4xx_adc.h (E:\huaqing\qiao\32备课\上课资料\2308\8day\demo\libraries\STM32F4xx_StdPeriph_Driver\inc) :                                                This parameter can be a value of @ref ADC_resolution */                                   
+stm32f4xx_adc.h (E:\huaqing\qiao\32备课\上课资料\2308\8day\demo\libraries\STM32F4xx_StdPeriph_Driver\inc) line 220 : /** @defgroup ADC_resolution 
